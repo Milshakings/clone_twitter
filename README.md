@@ -67,8 +67,7 @@ Versionado 📌
 Usamos Git para el versionado. Para las versiones disponibles, ve las etiquetas en este repositorio.
 
 Autores ✒️
-Brayan Diaz C - Trabajo inicial - Brayan Diaz C
-Mira también la lista de contribuidores que han participado en este proyecto.
+Raul Galleguillos
 
 Licencia 📄
 Este proyecto está bajo la Licencia XYZ - ve el archivo LICENSE.md para detalles
